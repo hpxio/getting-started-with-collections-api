@@ -1,0 +1,22 @@
+Iteratable
+    > Collection
+        > List (Duplication Allowed)
+            > LinkedList
+            > ArrayList (Non-Thread-Safe)
+            > Vector (Thread Safe)
+        > Set
+            > HashSet
+            > LinkedHashSet
+            > Sorted
+                > TreeSet
+                > SortedSet
+                > NavigableSet
+        > Map
+            > HashMap
+            > HashTable
+            > LinkedHashMap
+            >Sorted
+                > TreeMap
+        > Queue
+            > PriorityQueue
+            > Deque

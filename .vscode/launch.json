@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListIteratorDemo",
+            "request": "launch",
+            "mainClass": "com.app.sa.lists.ListIteratorDemo",
+            "projectName": "GettingStartedWithCollectionsAPI"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Vectors",
+            "request": "launch",
+            "mainClass": "com.app.sa.lists.Vectors",
+            "projectName": "GettingStartedWithCollectionsAPI"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StackUsingLinkedList",
+            "request": "launch",
+            "mainClass": "com.app.sa.lists.StackUsingLinkedList",
+            "projectName": "GettingStartedWithCollectionsAPI"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkedLists",
+            "request": "launch",
+            "mainClass": "com.app.sa.lists.LinkedLists",
+            "projectName": "GettingStartedWithCollectionsAPI"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SynchronizedList",
+            "request": "launch",
+            "mainClass": "com.app.sa.lists.SynchronizedList",
+            "projectName": "GettingStartedWithCollectionsAPI"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayLists",
+            "request": "launch",
+            "mainClass": "com.app.sa.lists.ArrayLists",
+            "projectName": "GettingStartedWithCollectionsAPI"
+        }
+    ]
+}
